@@ -37,3 +37,5 @@ There are three counties in this data set: Jefferson, Denver, and Arapahoe. The 
    ![image](https://user-images.githubusercontent.com/96396696/150656759-4355c935-65ac-4a8d-8b78-20331116cf89.png)  
    
   6) Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+This analysis was successful in understanding the immediate outcome of the election and which county had the largest turn out. These results are both useful, however I think that the analysis could have gone further to understand which candidate won the most vote in each county. In order to produce these results we would have to do another nest loop to find 
