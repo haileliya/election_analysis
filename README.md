@@ -21,7 +21,7 @@ There are three counties in this data set: Jefferson, Denver, and Arapahoe. The 
     
   3) Which county had the largest number of votes?
      
-     Denver had the largest number of votes.
+     Denver had the largest number of votes. I used a for loop, the division operator, and an if statement to identify this result as show in the picture below. 
  ![image](https://user-images.githubusercontent.com/96396696/150656690-d6da70c2-4d78-45ae-95a6-3b0c12679757.png)  
   
   4) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
