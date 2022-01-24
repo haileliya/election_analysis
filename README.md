@@ -3,7 +3,7 @@ Using Python to analyze election outcomes
 
 Overview of Election Audit: Explain the purpose of this election audit analysis.
 
-The purpose of this audit analysis was to evauate the outcomes of the election in three counties in Colorodo. 
+The purpose of this audit analysis was to evauate the outcomes of the election in three counties in Colorodo. We used python to conduct an analysis on data stored in a csv file. We used different techniques such as for loops, if-statements, append(), and not-in mememberships. 
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
